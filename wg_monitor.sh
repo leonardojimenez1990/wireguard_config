@@ -1,7 +1,7 @@
 #!/bin/bash
 # Script principal para levantar la interfaz WireGuard y monitorear el tráfico en tiempo real.
-# Autor: [Tu Nombre]
-# Fecha: [Fecha]
+# Autor: leonardo jimenez
+# Fecha: 30032025
 
 # Verificar que se ejecute como root
 if [ "$EUID" -ne 0 ]; then
