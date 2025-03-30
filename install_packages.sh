@@ -1,7 +1,7 @@
 #!/bin/bash
 # Script para actualizar el sistema e instalar WireGuard y herramientas de monitorización.
-# Autor: [Tu Nombre]
-# Fecha: [Fecha]
+# Autor: leonardo jimenez
+# Fecha: 30032025
 
 # Verificar que se ejecute como root
 if [ "$EUID" -ne 0 ]; then
