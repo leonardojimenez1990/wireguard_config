@@ -34,7 +34,7 @@ AllowedIPs = 0.0.0.0/0, ::/0
 # Mantiene viva la conexión (útil en entornos NAT).
 PersistentKeepalive = 25
 # Dirección IP pública o dominio del servidor y puerto.
-Endpoint = 192.168.1.7:51820
+Endpoint = 192.168.1.69:51820
 EOF
     echo "Archivo de configuración creado."
     echo "Edítelo con sus valores reales antes de continuar."
