@@ -1,4 +1,6 @@
 #!/usr/bin/env python3
+# Autor: leonardo jimenez
+# Fecha: 30032025
 """
 WireGuard Monitor App Mejorada
 ------------------------------
